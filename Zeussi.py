@@ -1,4 +1,4 @@
 def hw():
-    print("cake")
+    print("cake" + 2)
 
 hw()
